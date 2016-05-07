@@ -1,4 +1,3 @@
-try{
 function jCanvas(c){
   var o = {
     'canvas': c,
